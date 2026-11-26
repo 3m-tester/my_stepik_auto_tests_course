@@ -1,2 +1,2 @@
 # my_stepik_auto_tests_course
-Test add info to readme file.
+Test - Add info to readme file.
